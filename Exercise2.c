@@ -4,6 +4,8 @@
 
 #define MAX_NAME_LENGTH 48
 
+//it's better to mentioned all the functions just like i mentioned below.....
+
 void display_menu();
 void write_file(char *filename);
 void read_file(char *filename);
